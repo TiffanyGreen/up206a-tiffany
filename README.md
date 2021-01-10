@@ -36,16 +36,16 @@ When discussing with my partner for the project, we talked about:
    1. Access (or lack of) to water
    1. Tribal environmental justice issues in OK
 1. Housing: 
-  1. Occupancy profile - owner occupied or rented
-  1. Housing type / age
-  1. How ^ correlate to environmental justice issues
-  1. Housing vouchers influence on property value
+   1. Occupancy profile - owner occupied or rented
+   1. Housing type / age
+   1. How ^ correlate to environmental justice issues
+   1. Housing vouchers influence on property value
 1. Unhoused exposure to air pollution
-  1. Especially with fire risk
+   1. Especially with fire risk
 1. Tenant rights movements in Berlin
-  1. Vacancy rates and unhoused rates
+   1. Vacancy rates and unhoused rates
 1. Especially interested in comparing multiple international cities
 1. St. Louis specific issues: 
-  1. Pre- and post- Ferguson Commission traffic stop
-  1. St. Louis unified police dept
+   1. Pre- and post- Ferguson Commission traffic stop
+   1. St. Louis unified police dept
   
