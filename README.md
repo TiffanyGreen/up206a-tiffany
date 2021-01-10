@@ -30,11 +30,11 @@ I'm generally interested in housing and neighborhood change.
 When discussing with my partner for the project, we talked about: 
 
 1. Environmental justice: 
-  1. Exposure to air pollution
-  1. Access (or lack of) to greenspace
-  1. Access (or lack of) to healthy food
-  1. Access (or lack of) to water
-  1. Tribal environmental justice issues in OK
+   1. Exposure to air pollution
+   1. Access (or lack of) to greenspace
+   1. Access (or lack of) to healthy food
+   1. Access (or lack of) to water
+   1. Tribal environmental justice issues in OK
 1. Housing: 
   1. Occupancy profile - owner occupied or rented
   1. Housing type / age
